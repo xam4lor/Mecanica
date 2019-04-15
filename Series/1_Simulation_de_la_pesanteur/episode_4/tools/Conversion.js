@@ -1,6 +1,7 @@
 // Liste des constantes admises
 const c = {
-    TIME_UNIT: 0.1 // 0.1 seconde réelle correspond à 1 seconde en simulation
+    TIME_UNIT: 0.1,      // 0.1 seconde réelle correspond à 1 seconde en simulation
+    PIXELS_EN_METRE: 10  // 10 pixels en simulation correspondent à 1 m réel
 };
 
 // Classe s'occupant des conversions de notre programme (temps, longueurs, ...)
@@ -12,7 +13,8 @@ class Conversion {
         return (c.TIME_UNIT * n) / 1;
     }
 
-    // Convertis des mètres en pixels
+
+    /** Convertis des mètres en pixels */
     static metersToPixel(n) {
         //  PIXELS_EN_METRE pixels  =>  1 mètre
         //  x pixels                <=  n mètre
