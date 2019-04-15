@@ -30,4 +30,4 @@ Cependant, quelques dépendances sont souvent utilisées comme :
 
 
 ## Sommaire
-En cours de complétition.
+  1. [Liste des séries](https://github.com/xam4lor/Mecanica/tree/master/Series)
