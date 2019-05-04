@@ -1,15 +1,21 @@
 # Mecanica
-Repository officiel et principal de la chaîne YouTube [Mecanica](https://www.youtube.com/c/MecanicaScience).
+Repository officiel et principal de la chaîne YouTube [MecanicaScience](https://www.youtube.com/c/MecanicaScience).
 
 ## Présentation
 
 Ne vous êtes-vous jamais demandé comment fonctionne notre monde ? Du mouvement de l'eau, à la trajectoire d'un ballon de basket, en passant par la formation des galaxies !
 Sur cette chaîne, nous allons tenter de vous expliquer certains concepts mathématiques du monde de tous les jours, d'essayer de les mettre en équation, puis d'essayer de les reproduire via un programme informatique.
-Alors, que vous soyez un scientifique aguerri ou un simple curieux débutant, n'hésitez pas à venir faire un tour sur la chaîne [Mecanica](https://www.youtube.com/c/MecanicaScience) ! 
+Alors, que vous soyez un scientifique aguerri ou un simple curieux débutant, n'hésitez pas à venir faire un tour sur la chaîne [MecanicaScience](https://www.youtube.com/c/MecanicaScience) ! 
 
 ### Contributions
 
 Nous sommes ouverts à toutes contributions ou modifications, qu'elles corrigent un bug, ou qu'elles soient purement et simplement esthétiques.
+
+### Liens externes
+ - [Chaîne Youtube](https://www.youtube.com/c/MecanicaScience)
+ - [uTip](https://utip.io/mecanicascience)
+ - [Tipeee](https://fr.tipeee.com/mecanica)
+ - [Site web](http://mdherbecourt.herokuapp.com/)
 
 ### Auteur
 
