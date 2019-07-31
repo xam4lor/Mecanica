@@ -13,9 +13,9 @@ Nous sommes ouverts à toutes contributions ou modifications, qu'elles corrigent
 
 ### Liens externes
  - [Chaîne Youtube](https://www.youtube.com/c/MecanicaScience)
+ - [Site web et blog](http://mecanicascience.herokuapp.com/)
  - [uTip](https://utip.io/mecanicascience)
  - [Tipeee](https://fr.tipeee.com/mecanica)
- - [Site web](http://mdherbecourt.herokuapp.com/)
 
 ### Auteur
 
