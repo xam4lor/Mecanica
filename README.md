@@ -1,4 +1,4 @@
-# Mecanica
+# MecanicaScience
 Repository officiel et principal de la chaîne YouTube [MecanicaScience](https://www.youtube.com/c/MecanicaScience).
 
 ## Présentation
