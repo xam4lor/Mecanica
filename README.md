@@ -16,6 +16,7 @@ Nous sommes ouverts à toutes contributions ou modifications, qu'elles corrigent
  - [Site web et blog](http://mecanicascience.herokuapp.com/)
  - [uTip](https://utip.io/mecanicascience)
  - [Tipeee](https://fr.tipeee.com/mecanica)
+ - [Moteur de rendu des animations](https://github.com/mecanicascience/Mathim)
 
 ### Auteur
 
